@@ -1,3 +1,5 @@
 
 def main():
-    print("THE bugsmasher(s)")
+    i don't care
+    # lalalalaal
+    # andrew STINKS!
