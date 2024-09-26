@@ -1,3 +1,3 @@
 
 def main():
-    print("THE bugsmasher(s)")
+    print("watermelon helmet")
